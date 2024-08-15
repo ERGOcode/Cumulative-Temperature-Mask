@@ -36,4 +36,5 @@ Step five: open data in QGIS, Arcmap, or Arcpro
 
 Step six: Create the desire map and save as JPG
 
-Step seven: Create GIF
+Step seven: Create GIF using GIMP 
+Open GIM, Open all files as layers, Create animation, then save as GIF.
